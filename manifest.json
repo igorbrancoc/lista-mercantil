@@ -1,0 +1,18 @@
+{
+  "name": "Lista do Mercantil",
+  "short_name": "Mercantil 🛒",
+  "description": "Lista de compras interativa com preços",
+  "start_url": "/lista-mercantil/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1565c0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231565c0'/><text y='.9em' font-size='80' x='10'>🛒</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
